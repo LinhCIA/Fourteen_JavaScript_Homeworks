@@ -1,2 +1,1 @@
-# Fourteen_JavaScript_Homeworks
-14 bài tập về nhà JavaScipt 
+# 14 bài tập về nhà JavaScipt 
